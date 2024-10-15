@@ -1,2 +1,2 @@
-# react
-react 2022
+# react_blog
+react study 2022
